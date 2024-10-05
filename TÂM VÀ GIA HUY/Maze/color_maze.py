@@ -1,0 +1,20 @@
+
+class Color:
+	def __init__(self):
+		self.White = (255, 255, 255)
+		self.Silver = (192, 192, 192)
+		self.Gray = (128, 128, 128)
+		self.Black = (0, 0, 0)
+		self.Red = (255, 0, 0)
+		self.Maroon = (128, 0, 0)
+		self.Yellow = (255, 255, 0)
+		self.Olive = (128, 128, 0)
+		self.Lime = (0, 255, 0)
+		self.Green = (0, 128, 0)
+		self.Aqua = (0, 255, 255)
+		self.Teal = (0, 128, 128)
+		self.Blue = (0, 0, 255)
+		self.Navy = (0, 0, 128)
+		self.Fuchsia = (255, 0, 255)
+		self.Purple = (128, 0, 128)
+		self.Silver_light = (224, 224, 224)

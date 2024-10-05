@@ -1,0 +1,36 @@
+{
+    "nhom1": {
+        "level": [
+            "  easy",
+            "  easy",
+            "medium",
+            "  easy"
+        ],
+        "time": [
+            3,
+            12,
+            3,
+            12
+        ]
+    },
+    "chinguyen1": {
+        "level": [
+            "  easy",
+            "  easy"
+        ],
+        "time": [
+            18,
+            21
+        ]
+    },
+    "khads": {
+        "level": [
+            "  easy",
+            "medium"
+        ],
+        "time": [
+            21,
+            34
+        ]
+    }
+}
